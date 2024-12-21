@@ -35,4 +35,5 @@
 ## Run Command
 ```bash
 python test_grader.py --image images/test_02.png
+```
 ![OMR Grading Output](output/test_result.png)
