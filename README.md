@@ -36,4 +36,4 @@
 ```bash
 python test_grader.py --image images/test_02.png
 ```
-![OMR Grading Output](output/test_result.png)
+![OMR Grading Output](test_result.png)
